@@ -1,0 +1,21 @@
+{
+    "username":"Mohammed Hanis",
+    "password":"12345",
+    "email":"anisx019@gmail.com",
+    "age":18,
+    "address":"jm raod basrur,near jamaia masjid kundapur,udupi,karnataka",
+    "aadharNumber":12345678,
+    "role":"user",
+    "isVoted":false
+}
+{
+    "username":"Mohammed Amir",
+    "password":"12345",
+    "email":"amirx019@gmail.com",
+    "age":19,
+    "address":"jm raod basrur,near jamaia masjid kundapur,udupi,karnataka",
+    "aadharNumber":123456789,
+    "role":"user",
+    "isVoted":false
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODg3NDNjYzQ0Mjk0NDA3NzUzMGQ0ZiIsImlhdCI6MTc1Mzc3MzExNiwiZXhwIjoxNzUzNzc2MTE2fQ.WTpuUJehJd5yMNfe3YzIPQV7Tj7s4Lcu_VASsJvM5kM
