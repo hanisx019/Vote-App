@@ -22,11 +22,4 @@ This is a simple **backend-only Voting Application API** built with **Node.js**,
 - dotenv
 - Postman (for testing)
 
----
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/voting-app-backend.git
-cd voting-app-backend
-npm install
